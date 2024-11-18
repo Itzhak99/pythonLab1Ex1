@@ -14,7 +14,7 @@ def func2():
     return v
 
 def func3():
-    pass
+    print("hello")
 
 def func4():
     v = []
